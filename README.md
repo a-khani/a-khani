@@ -1,1 +1,1 @@
-howdy! i'm ali, a berkeley data science student. welcome to my technological circus.
+howdy! i'm ali, a berkeley student. welcome to my technological circus.
